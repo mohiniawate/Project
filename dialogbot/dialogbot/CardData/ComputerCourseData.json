@@ -1,0 +1,110 @@
+{
+  "Departmentname": "COMPUTER DEPARTMENT",
+  "created_by_name": "80",
+  "other_submitter": "Prof. Indira Joshi",
+  "syllabuslist": [
+    {
+      "text": "SEM 3",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019135215C3.pdf"
+    },
+    {
+      "text": "SEM 4",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019135225C4.pdf"
+    },
+    {
+      "text": "SEM 5",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019135237C5.pdf"
+    },
+    {
+      "text": "SEM 6",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019135257C6.pdf"
+
+    },
+
+    {
+      "text": "SEM 7",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019135307C7.pdf"
+    },
+
+    {
+      "text": "SEM 8",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019135319C8.pdf"
+    }
+  ],
+
+  "expenses": [
+    {
+      "description": "Prof. Indira Joshi",
+      "Qualification": "M.E.",
+      "image": "http://www.driems.in/uploads/staff/08082021233224IJ.png",
+      "subjects": "Cloud computing , Microprocessor",
+      "created_by_name": "PATRICIA"
+
+
+    },
+
+    {
+
+      "description": "Prof. Kalidas Bhawale",
+      "Qualification": "B.E.",
+      "image": "http://www.driems.in/uploads/staff/08082021233515KB.png",
+      "subjects": "Data Warehousing & Mining , Theory of Computer Science",
+      "created_by_name": "PATRICIA"
+
+
+    },
+    {
+
+      "description": "Prof. Yogesh Gite",
+      "Qualification": "B.E.",
+      "image": "http://www.driems.in/uploads/staff/08082021233413YG.png",
+      "subjects": "Database Management System , Cryptography & System Security",
+      "created_by_name": "PATRICIA"
+
+    },
+    {
+
+      "description": "Prof. Prachi Gadhire",
+      "Qualification": "B.E.",
+      "image": "http://www.driems.in/uploads/staff/08082021233601PG.png",
+      "subjects": "  Digital Signal Processing, Human Machine Interaction ",
+      "created_by_name": "PATRICIA"
+
+    },
+
+    {
+
+      "description": "Prof. Akshata Laddha",
+      "Qualification": "B.E.",
+      "image": "http://www.driems.in/uploads/staff/08082021233520AL.png",
+      "subjects": "  OOPM(Java) Lab, Data Structures ",
+      "created_by_name": "PATRICIA"
+
+    },
+
+    {
+
+      "description": "Prof. Priya Deshpande",
+      "Qualification": "B.E.",
+      "image": "http://www.driems.in/uploads/staff/08082021233706PD.png",
+      "subjects": "  Software Engineering,  distributed Systems  ",
+      "created_by_name": "PATRICIA"
+    },
+
+    {
+      "description": "Prof. Namrata Bhalerao",
+      "Qualification": "B.E.",
+      "image": "http://www.driems.in/uploads/staff/08082021233748NB.png",
+      "subjects": " Electronic Circuits and Communication Fundamentals, Project Managment ",
+      "created_by_name": "PATRICIA"
+
+    },
+    {
+      "description": "Prof. Kanchan Talekar",
+      "Qualification": "B.E.",
+      "image": "http://www.driems.in/uploads/staff/08082021233748NB.png",
+      "subjects": " Natural Language Processing , Adavance Database Management System",
+      "created_by_name": "PATRICIA"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "Container",
+      "style": "emphasis",
+      "items": [
+        {
+          "type": "ColumnSet",
+          "columns": [
+            {
+              "type": "Column",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "size": "Large",
+                  "weight": "Bolder",
+                  "text": "**Current Year Subject**",
+                  "style": "heading",
+                  "spacing": "None"
+                }
+              ],
+              "width": "stretch"
+            }
+          ]
+        }
+      ],
+      "bleed": true
+    },
+    {
+      "type": "Container",
+      "spacing": "None",
+      "items": [
+
+        {
+          "type": "TextBlock",
+          "weight": "Bolder",
+          "text": "**Subjects**",
+          "horizontalAlignment": "Left"
+        }
+      ],
+      "horizontalAlignment": "Center",
+      "verticalContentAlignment": "Top",
+      "bleed": true
+    },
+    {
+      "$data": "${professorList}",
+      "type": "Container",
+      "items": [
+        {
+          "type": "ColumnSet",
+          "columns": [
+            {
+              "type": "Column",
+              "spacing": "Medium",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "text": "**${Subject}**",
+                  "wrap": true,
+                  "weight": "Bolder",
+                  "size": "Medium"
+                }
+              ],
+              "width": "stretch"
+            },
+            {
+              "type": "Column",
+              "spacing": "Small",
+              "selectAction": {
+                "type": "Action.ToggleVisibility",
+                "title": "expand",
+                "targetElements": [
+                  "cardContent${$index}",
+                  "chevronDown${$index}",
+                  "chevronUp${$index}"
+                ]
+              },
+              "verticalContentAlignment": "Center",
+              "items": [
+                {
+                  "type": "Image",
+                  "id": "chevronDown${$index}",
+                  "url": "https://adaptivecards.io/content/down.png",
+                  "width": "20px",
+                  "altText": "Details collapsed"
+                },
+                {
+                  "type": "Image",
+                  "id": "chevronUp${$index}",
+                  "url": "https://adaptivecards.io/content/up.png",
+                  "width": "20px",
+                  "altText": "Details expanded",
+                  "isVisible": false
+                }
+              ],
+              "width": "auto"
+            }
+          ]
+        },
+        {
+          "type": "ColumnSet",
+          "id": "cardContent${$index}",
+          "columns": [
+            {
+              "type": "Column",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "weight": "Bolder",
+                  "wrap": true
+                },
+                {
+                  "type": "TextBlock",
+                  "spacing": "None",
+                  "text": "${Name}",
+                  "isSubtle": true,
+                  "wrap": true,
+                  "color": "Accent",
+                  "size": "Medium"
+                },
+                {
+                  "type": "FactSet",
+                  "facts": [
+                    {
+                      "title": "Email Id:",
+                      "value": "${EmailId}"
+                    },
+                    {
+                      "title": "Mobile No:",
+                      "value": "${MobileNo}"
+                    }
+                  ]
+                }
+              ],
+              "width": "stretch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.2",
+  "fallbackText": "This card requires Adaptive Cards v1.2 support to be rendered properly."
+}

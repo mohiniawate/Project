@@ -1,0 +1,128 @@
+{
+  "Departmentname": "MECHANICAL DEPARTMENT",
+  "created_by_name": "80",
+  "other_submitter": "Prof. Divgi Shashank",
+  "syllabuslist": [
+    {
+      "text": "SEM 3",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019134837m1.pdf"
+    },
+    {
+      "text": "SEM 4",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019134849m4.pdf"
+    },
+    {
+      "text": "SEM 5",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019134859m5.pdf"
+    },
+    {
+      "text": "SEM 6",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019134915m6.pdf"
+
+    },
+
+    {
+      "text": "SEM 7",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019134931m7.pdf"
+    },
+
+    {
+      "text": "SEM 8",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019134945m8.pdf"
+    }
+  ],
+
+  "expenses": [
+    {
+      "description": "Prof. Divgi Shashank (HOD)",
+      "Qualification": "M.E. , PHD persuing",
+      "image": "http://www.driems.in/uploads/staff/09082021003523SD.png",
+      "subjects": "Strength Of Material , Material Technology",
+      "created_by_name": "PATRICIA"
+
+    },
+
+    {
+
+      "description": "Prof. Ajay Ingale",
+      "Qualification": "B.E.,M.E.,CAD-CAM",
+      "image": "http://www.driems.in/uploads/staff/09082021003443IngaleAjay.png",
+      "subjects": "Applied Maths , Thermodynamics",
+      "created_by_name": "PATRICIA"
+
+    },
+    {
+
+      "description": "Prof. Pravin Shirke",
+      "Qualification": "B.E.,M.E.",
+      "image": "http://www.driems.in/uploads/staff/2812201914023015-1.jpg",
+      "subjects": "Fluid Mechanism , Industrial Electronics",
+      "created_by_name": "PATRICIA"
+    },
+    {
+
+      "description": "Prof. Umesh Gumgol",
+      "Qualification": "M.Tech",
+      "image": "http://www.driems.in/uploads/staff/04082021233949Umesh.png",
+      "subjects": "Kinetics Of Machinary , Internal Combustion Engines",
+      "created_by_name": "PATRICIA"
+    },
+
+    {
+
+      "description": "Prof. Vivekanand Munde",
+      "Qualification": "B.E.",
+      "image": "http://www.driems.in/uploads/staff/2812201914135423-1-150x150.jpg",
+      "subjects": "Mechanical Measurements And Control , Metrology And Quality Engineering",
+      "created_by_name": "PATRICIA"
+    },
+
+    {
+
+      "description": "Prof. Deepali Kotkar",
+      "Qualification": "M.E.",
+      "image": "http://www.driems.in/uploads/staff/2812201914144724.jpg",
+      "subjects": "Heat Transfer , Dynamics Of Machinary",
+      "created_by_name": "PATRICIA"
+    },
+
+    {
+      "description": "Prof. Karuna Verma",
+      "Qualification": "B.E.",
+      "image": "http://www.driems.in/uploads/staff/2812201914155926.jpg",
+      "subjects": "Data Warehousing & Mining , Theory of Computer Science",
+      "created_by_name": "PATRICIA"
+
+    },
+    {
+      "description": "Prof. Vasant Ghuge",
+      "Qualification": "B.E.",
+      "image": "http://www.driems.in/uploads/staff/09082021002607VG.png",
+      "subjects": "Machine Design , Finite Element Analaysis",
+      "created_by_name": "PATRICIA"
+    },
+    {
+      "description": "Prof. Vivek Sodaye",
+      "Qualification": "B.E.",
+      "image": "http://www.driems.in/uploads/staff/09082021002711VS.png",
+      "subjects": "Refrigination And Air Conditioning , Machine Design 2",
+      "created_by_name": "PATRICIA"
+    },
+    {
+      "description": "Prof. Ganesh Kharote",
+      "Qualification": "B.E.",
+      "image": "http://www.driems.in/uploads/staff/09082021002936GK.png",
+      "subjects": "CAD-CAM , Mechanical Utility Systems",
+      "created_by_name": "PATRICIA"
+    },
+    {
+      "description": "Prof. Akshay Hire",
+      "Qualification": "B.E.,M.E.",
+      "image": "http://www.driems.in/uploads/staff/09082021003256AH.png",
+      "subjects": "Production Planning And Control , Design Of Mechanical Systems",
+      "created_by_name": "PATRICIA"
+    }
+
+  ]
+
+}

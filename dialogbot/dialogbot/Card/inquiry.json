@@ -1,0 +1,57 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.3",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "Medium",
+      "weight": "Bolder",
+      "text": " Inquiry Form",
+      "horizontalAlignment": "Center",
+      "wrap": true,
+      "style": "heading"
+    },
+    {
+      "type": "Input.Text",
+      "label": "Name",
+      "id": "SimpleVal",
+      "isRequired": true,
+      "errorMessage": "Name is required"
+    },
+    {
+      "type": "Input.Text",
+      "label": "Email",
+      "style": "Email",
+      "id": "EmailVal",
+      "isRequired": true,
+      "errorMessage": "Email is required and should be in correct format",
+      "regex": "^[a-zA-Z0-9+_.-]+@[a-zA-Z0-9.-]+$"
+    },
+    {
+      "type": "Input.Text",
+      "label": "Phone",
+      "style": "Tel",
+      "id": "TelVal",
+      "isRequired": true,
+      "maxLength": 10,
+      "errorMessage": "Phone number is required and only numbers are allowed",
+      "regex": "^[0-9]*$"
+    },
+    {
+      "type": "Input.Text",
+      "label": "Query",
+      "isMultiline": true,
+      "id": "MultiLineVal",
+      "isRequired": true,
+      "errorMessage": "Query is required"
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Submit",     
+      "style": "positive"
+    }
+  ]
+}

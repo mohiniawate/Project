@@ -1,0 +1,50 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "Login"
+    },
+
+    {
+      "type": "TextBlock",
+      "text": "MobileNo"
+
+    },
+
+    {
+      "type": "Input.Text",
+      "id": "Mobileno",
+      "placeholder": "Enter mobile number",
+      //"isRequired": true,
+      "maxLength": 10
+      //"regex":"^[0-9]*$"
+    },
+
+    {
+      "type": "TextBlock",
+      "text": "Password"
+    },
+
+
+    {
+      "type": "Input.Text",
+      "id": "Password",
+      "placeholder": "Enter password",
+      // "isRequired": true,
+      "style": "password",
+      "maxLength": 6
+      //"regex": "^[0-9]*$"
+
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Login"
+
+    }
+  ]
+}

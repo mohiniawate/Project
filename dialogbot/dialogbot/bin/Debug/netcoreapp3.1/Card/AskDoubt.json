@@ -1,0 +1,42 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.3",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "Medium",
+      "weight": "Bolder",
+      "text": "Ask Doubt",
+      "wrap": true,
+      "style": "heading"
+    },
+    {
+      "type": "Input.ChoiceSet",
+      "label": "Teacher Name",
+      "id": "selectedUser",
+      "choices": [
+        {
+          "$data": "${professorList}",
+          "title": "Prof. ${Name}",
+          "value": "${EmailId}"
+        }
+      ],
+      "placeholder": "Select Teacher"
+    },
+    {
+      "type": "Input.Text",
+      "label": "Doubt",
+      "isMultiline": true,
+      "id": "MultiLineVal",
+      "isRequired": true,
+      "errorMessage": "Query is required"
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Submit"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "Medium",
+      "weight": "Bolder",
+      "text": "PLACEMENT STATISTICS",
+      "wrap": true,
+      "style": "heading"
+    },
+    {
+      "type": "Image",
+      "url": "@^@placementtable.png",
+      "size": "stretch"
+    },
+    {
+      "type": "TextBlock",
+      "size": "Medium",
+      "weight": "Bolder",
+      "text": "Upcoming Placement Drives:",
+      "wrap": true,
+      "style": "heading"
+    },
+    {
+      "type": "Container",
+      "id": "cardContent4",
+      "items": [
+        {
+          "type": "Container",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "* Nucsoft Ltd Pooled Placement Drive for 2021-22 Batch Dated 7th March 2022 ",
+              "isSubtle": true,
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "text": "* Kotak Mahindra Pooled Placement Drive for 2021-22 Batch Dated 22nd March 2022",
+              "isSubtle": true,
+              "wrap": true
+            },
+            {
+              "type": "TextBlock",
+              "text": "* TCS Off Campus Drive for 2021-22 Dated 14th & 15th April 2022",
+              "isSubtle": true,
+              "wrap": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.3"
+}

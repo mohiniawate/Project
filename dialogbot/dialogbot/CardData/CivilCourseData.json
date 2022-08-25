@@ -1,0 +1,75 @@
+{
+  "Departmentname": "Civil DEPARTMENT",
+  "created_by_name": "80",
+  "other_submitter": "Prof. Sushil Ade",
+  "syllabuslist": [
+    {
+      "text": "SEM 3",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019134538Sem-3.pdf"
+    },
+    {
+      "text": "SEM 4",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019134549Sem-4.pdf"
+    },
+    {
+      "text": "SEM 5",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019134558Sem-5.pdf"
+    },
+    {
+      "text": "SEM 6",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019134608Sem-6.pdf"
+
+    }
+  ],
+
+  "expenses": [
+    {
+      "description": "Prof Pooja Bane",
+      "Qualification": "B.E,M.E persuing",
+      "image": "http://www.driems.in/uploads/staff/28122019131705Pooja.png",
+      "subjects": "Strength of Materials , Engineering Geology",
+      "created_by_name": "PATRICIA"
+
+
+    },
+
+    {
+
+      "description": "Prof Sushil Ade",
+      "Qualification": "B.E.",
+      "image": "http://www.driems.in/uploads/staff/09082021001545SA.png",
+      "subjects": "Surveying-II 3 , Fluid Mechanics-1",
+      "created_by_name": "PATRICIA"
+
+
+    },
+    {
+
+      "description": "Prof Prachi jagtap",
+      "Qualification": "B.E.",
+      "image": "https://pbs.twimg.com/profile_images/3647943215/d7f12830b3c17a5a9e4afcc370e3a37e_400x400.jpeg",
+      "subjects": "Surveying-II 3 , Fluid Mechanics-1",
+      "created_by_name": "PATRICIA"
+
+    },
+    {
+
+      "description": "Prof Reshma Shaikh",
+      "Qualification": "B.E.",
+      "image": "https://pbs.twimg.com/profile_images/3647943215/d7f12830b3c17a5a9e4afcc370e3a37e_400x400.jpeg",
+      "subjects": "Building Design & Drawing , Building Materials & Construction Technology ",
+      "created_by_name": "PATRICIA"
+
+    },
+
+    {
+
+      "description": "Prof.Tarranum Khan",
+      "Qualification": "B.E.",
+      "image": "https://pbs.twimg.com/profile_images/3647943215/d7f12830b3c17a5a9e4afcc370e3a37e_400x400.jpeg",
+      "subjects": "Building Design and Drawing ,Employment and Corporate Skills  ",
+      "created_by_name": "PATRICIA"
+
+    }
+  ]
+}

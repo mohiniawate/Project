@@ -1,0 +1,110 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "Image",
+              "url": "@^@logo.png",
+              "size": "Medium"
+            }
+          ],
+          "width": "auto"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "weight": "Bolder",
+              "text": "Dilkap Research Institute of Engineering and Management Studies",
+              "wrap": true,
+              "color": "Accent",
+              "size": "Medium",
+              "spacing": "None",
+              "height": "stretch",
+              "horizontalAlignment": "Center"
+
+            }
+
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+
+            {
+              "type": "Image",
+              "url": "@^@grade.png",
+              "size": "Medium",
+              "horizontalAlignment": "Center",
+              "style": "Person"
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "TextBlock",
+      "text": "Dilkap Colleges and Institutes having Diploma Engineering and Degree Engineering are designed to give students a better future, with world class exposure. With the world of work in mind and a global dimension, we not only offer courses leading to internationally recognized academic awards, but also have an approach designed to equip students with the skills needed for a rewarding career.Our aim is to become the preferred destination for students, teachers, researchers and scholars from around the world. The diversity of our graduates reflects our commitment to ensuring that the widest ranges of students are given the chance to benefit from our top quality higher education.",
+      "wrap": true
+    },
+    {
+      "type": "FactSet",
+      "facts": [
+        {
+          "title": "Institute Code",
+          "value": "3353"
+        },
+        {
+          "title": "Year of Establishment",
+          "value": "2010"
+        },
+        {
+          "title": "Address",
+          "value": "Village At.Mamdapur, Post- Neral, Tal- Karjat, Dist.Raigadh,410101"
+        },
+        {
+          "title": "Contact No",
+          "value": "8605000842"
+        },
+
+        {
+          "title": "E-Mail Address",
+          "value": "info@driems.in"
+        },
+
+        {
+          "title": "Web Address",
+          "value": "www.driems.in"
+        }
+
+
+      ]
+    }
+  ],
+  //"actions": [
+  //  {
+  //    "type": "Action.Submit",
+  //    "title": "Back",
+  //    "data": {
+  //      "Value": "back"
+  //    }
+  //  },
+  //  {
+  //    "type": "Action.Submit",
+  //    "title": "End",
+  //    "data": {
+  //      "Value": "end"
+  //    }
+  //  }    
+  //],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.3"
+}

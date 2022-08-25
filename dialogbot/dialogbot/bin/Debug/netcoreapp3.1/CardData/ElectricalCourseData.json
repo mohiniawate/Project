@@ -1,0 +1,88 @@
+{
+  "Departmentname": " ELECTRICAL DEPARTMENT",
+  "created_by_name": "80",
+  "other_submitter": "Prof. Rashmi Chaudhari",
+  "syllabuslist": [
+    {
+      "text": "SEM 3",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019135615E3.pdf"
+    },
+    {
+      "text": "SEM 4",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019135650E4.pdf"
+    },
+    {
+      "text": "SEM 5",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019135827e5.pdf"
+    },
+    {
+      "text": "SEM 6",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019135914e6.pdf"
+
+    },
+    {
+      "text": "SEM 8",
+      "url": "http://www.driems.in/uploads/Syllabus/26122019135949E8.pdf"
+
+    }
+  ],
+
+  "expenses": [
+    {
+      "description": "Prof Rashmi Chaudhari",
+      "Qualification": "M.E",
+      "image": "http://www.driems.in/uploads/staff/09082021005102RC.png",
+      "subjects": "Conventional and Non-Conventional Power Generation ,Electronic Devices and Circuits",
+      "created_by_name": "PATRICIA"
+
+
+    },
+
+    {
+
+      "description": "Prof Jayshree Madrewar",
+      "Qualification": "M.E.",
+      "image": "http://www.driems.in/uploads/staff/04082021234332JayashreeMadrewar.png",
+      "subjects": "Electromagnetic Field and wave Theory, Analog and Digital Integrated Circuit",
+      "created_by_name": "PATRICIA"
+
+    },
+    {
+
+      "description": "Prof Kajol Kathoke",
+      "Qualification": "M.E.",
+      "image": "http://www.driems.in/uploads/staff/08082021234917KK.png",
+      "subjects": " Power Electronics Lab , Electrical Machines - III ",
+      "created_by_name": "PATRICIA"
+
+    },
+    {
+
+      "description": "Prof Ritika Soni",
+      "Qualification": "M.E",
+      "image": "http://www.driems.in/uploads/staff/2812201913361344.jpg",
+      "subjects": " Business Communication and Ethics , Power Electronics ",
+      "created_by_name": "PATRICIA"
+
+    },
+    {
+
+      "description": "Prof Pramod Jalamkar",
+      "Qualification": "M.Tech",
+      "image": "http://www.driems.in/uploads/staff/08082021234930PVJ.png",
+      "subjects": "Signal processing , Electronics Lab - I ",
+      "created_by_name": "PATRICIA"
+
+    },
+
+    {
+
+      "description": "Prof Shrikant sattenapalli",
+      "Qualification": "M.E",
+      "image": "http://www.driems.in/uploads/staff/09082021005117SS.png",
+      "subjects": " Electrical Protection Lab , Microcontroller and its Applications",
+      "created_by_name": "PATRICIA"
+
+    }
+  ]
+}

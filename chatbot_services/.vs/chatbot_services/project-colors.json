@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e3eb643-984f-4319-ab33-02475503b069": {
+      "ProjectGuid": "2e3eb643-984f-4319-ab33-02475503b069",
+      "DisplayName": "ChatBotApp",
+      "ColorIndex": 0
+    },
+    "5247fe9b-5fba-42b2-8e71-e73558b8c8e8": {
+      "ProjectGuid": "5247fe9b-5fba-42b2-8e71-e73558b8c8e8",
+      "DisplayName": "core",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
